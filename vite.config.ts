@@ -7,6 +7,7 @@ import path from 'path'
 
 // https://vitejs.dev/config/
 export default defineConfig({
+  homepage: "https://studyraise.github.io/project",
   base: './',
   plugins: [
     vue(),
